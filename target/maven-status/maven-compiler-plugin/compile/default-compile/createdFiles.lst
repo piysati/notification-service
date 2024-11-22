@@ -1,3 +1,4 @@
+com\project\db\DatabaseConfig.class
 com\project\exception\SmsException.class
 com\project\service\UserService.class
 com\project\exception\BaseException.class
